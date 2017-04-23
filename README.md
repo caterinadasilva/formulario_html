@@ -1,2 +1,2 @@
 # formulario_html
-Ejerci 
+Ejercicio de formulario con campos obligatorios con sólo HTML.
